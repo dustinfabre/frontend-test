@@ -30,7 +30,7 @@
 		"bootstrap-vue": "^2.15.0",
 		"core-js": "^3.6.5",
 		"intersection-observer": "^0.11.0",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.21",
 		"moment": "^2.27.0",
 		"regenerator-runtime": "^0.13.5",
 		"vue": "^2.6.11",
